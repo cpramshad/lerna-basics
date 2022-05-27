@@ -5,6 +5,9 @@
     "craco": "^0.0.3",
     "lerna": "^4.0.0"
   },
+  "scripts": {
+    "start": "lerna exec --scope @cpramshad/app -- yarn start"
+  },
   "workspaces": {
     "packages": [
       "packages/**"
