@@ -9,7 +9,7 @@
     "@cpramshad/components": "0.1.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "craco start",
     "build": "craco build",
     "test": "craco test",
     "eject": "rcraco eject"
